@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CODIGO_PENTAL
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CODIGO_PENTAL\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Cod
+comment1.target=CODIGO_PENTAL(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CODIGO_PENTAL\r\n
+comment2.params=
+comment2.target=int\ cantLetras()
+comment2.text=\r\n\ Indica\ la\ cantidad\ de\ letras\r\n\ \ \ \ \ \r\n
+comment3.params=
+comment3.target=java.lang.String\ digPental()
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+numComments=4

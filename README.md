@@ -1,0 +1,2 @@
+# Codigo-Pental
+Sencillo programa que permite la entrada de letras y números y retorna un código nuevo sólo con los dígitos del sistema pental, también indica el número de letras y la longitud de la cadena.

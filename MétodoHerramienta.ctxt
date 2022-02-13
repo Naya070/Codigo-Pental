@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=M\u00E9todoHerramienta
+comment1.params=Palab
+comment1.target=boolean\ PValidar(java.lang.String)
+comment2.params=Cod
+comment2.target=boolean\ CValidar(java.lang.String)
+numComments=3
